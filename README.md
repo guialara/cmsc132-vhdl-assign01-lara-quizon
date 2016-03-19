@@ -1,9 +1,11 @@
 CMSC 132 Lecture Assignment on VHDL
 ===
 
-A simple VHDL program solving the multiple incidents of stolen items in Boggis, Bunce and Beam farm storages by Mr. Fox.
+* The prescribed filename format of (section)-(lastname1)-(lastname2) for vhdl file and (section)-(lastname1)-(lastname2)-tb for the test bench file wouldnt work. 
 
-Results may be simulated using GTKWave.
+* It gives an error of ```ghdl: bad character in identifier```.
+
+* As a workaround, we changed the dashes to underscores.
 
 ####Submitted by:
 * [Guia Carmella Lara](https://github.com/guialara)
