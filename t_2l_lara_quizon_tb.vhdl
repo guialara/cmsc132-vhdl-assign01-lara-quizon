@@ -1,8 +1,8 @@
 -- Filename: t_2l_lara_quizon_tb.vhdl
--- Module: Test Bench for a 4:2 Priority Encoder
+-- Module: Test Bench for t_2l_lara_quizon.vhdl
 -- Reference: Lee S. (2011). Introduction to VHDL. Singapore: Cengage: Learning Asia Pte Ltd
 
---Description: Test the priority encoder 4 2 module
+--Description: Test the t_2l_lara_quizon_tb module
 --Library Statements
 
 library IEEE; use IEEE.std_logic_1164.all;
